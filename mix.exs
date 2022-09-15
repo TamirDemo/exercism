@@ -15,6 +15,7 @@ defmodule ExercismTestRunner.Mixfile do
         plt_file: {:no_warn, "priv/plts/eventstore.plt"},
         ignore_warnings: ".dialyzer_ignore.exs"
         AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMAAAKEA
+        AWS_SECRET_ACCESS_KEY=wJalrXUtnFEMI/K7MDENG/bPxRfiCYEXAMAAAKEB
       ]
     ]
   end
